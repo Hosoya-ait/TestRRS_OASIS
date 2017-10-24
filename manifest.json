@@ -3,7 +3,7 @@
     "version" : "0.0.2",
     "description" : "Simulation run manager for S.Takami",
     "icon" : "fa-bar-chart",
-    "main_controller" : "rrsoacis\\apps\\Hosoya-ait\\TestRRS_OASIS\\MainPage",
+    "main_controller" : "rrsoacis\\apps\\Hosoya_ait\\TestRRS_OASIS\\MainPage",
     "sub_controller" : [ ],
     "dependencies" : [ ]
 }
