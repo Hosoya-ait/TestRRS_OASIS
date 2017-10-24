@@ -1,5 +1,5 @@
 <?php
-namespace rrsoacis\apps\Hosoya-ait\TestRRS_OASIS;
+namespace rrsoacis\apps\Hosoya_ait\TestRRS_OASIS;
 
 use rrsoacis\component\common\AbstractPage;
 use rrsoacis\system\Config;
